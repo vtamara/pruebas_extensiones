@@ -1,1 +1,1 @@
-# pruebas_extensiones
+# Extensiones para chrome de prueba
